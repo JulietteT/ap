@@ -1,0 +1,2 @@
+public class MobileBankApiTestV5 {
+}
